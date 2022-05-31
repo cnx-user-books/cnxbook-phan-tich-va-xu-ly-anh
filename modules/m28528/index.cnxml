@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các phép lọc trên miền tần số</title>
+  <metadata>
+  <md:content-id>m28528</md:content-id><md:title>Các phép lọc trên miền tần số</md:title>
+  <md:abstract>Trình bày kiến thức cơ bản về các phép lọc trên miền tần số như: Fourier, Wavelet, ...</md:abstract>
+  <md:uuid>bd3b197f-9798-4bc5-8a06-3f8462b8576e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id21999583">Các phương pháp lọc miền tần số</para>
+    <list id="id21754955" list-type="enumerated">
+      <item>Chuỗi Fourier</item>
+      <item>Biến đổi Wavelet</item>
+    </list>
+  </content>
+</document>

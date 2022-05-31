@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các phép lọc trên miền không gian</title>
+  <metadata>
+  <md:content-id>m28517</md:content-id><md:title>Các phép lọc trên miền không gian</md:title>
+  <md:abstract>Giới thiệu các phép lọc cơ bản trên miền không gian ảnh.</md:abstract>
+  <md:uuid>9a2da7e1-53a9-43fb-bbef-6e31cfb95d7c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id19393346">Các phép biến đổi trên miền không gian</para>
+    <list id="id23669503" list-type="enumerated">
+      <item>Tích chặp</item>
+      <item>Ảnh âm bản</item>
+    </list>
+  </content>
+</document>
