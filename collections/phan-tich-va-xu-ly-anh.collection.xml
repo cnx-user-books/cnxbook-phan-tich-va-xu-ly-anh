@@ -1,3 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10901</md:content-id>  <md:title>Phân tích và xử lý ảnh</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>      <md:uuid>41c1853c-6912-44e0-9fa3-94d0e49165b2</md:uuid>
-<md:slug>phan-tich-va-xu-ly-anh</md:slug>
-</metadata>  <col:content>          <col:module document="m28559"/>                            <col:module document="m28528"/>                            <col:module document="m28517"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ph&#x1EA1;m Th&#x1EBF; B&#x1EA3;o">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10901</md:content-id>
+    <md:title>Ph&#xE2;n t&#xED;ch v&#xE0; x&#x1EED; l&#xFD; &#x1EA3;nh</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>41c1853c-6912-44e0-9fa3-94d0e49165b2</md:uuid>
+    <md:slug>phan-tich-va-xu-ly-anh</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m28559"/>
+    <col:module document="m28528"/>
+    <col:module document="m28517"/>
+  </col:content>
+</col:collection>
